@@ -22,3 +22,4 @@
 #    # input de  dato 
 #    lista.append(num)
 
+#  hacer  programa de   promedio de notas 
