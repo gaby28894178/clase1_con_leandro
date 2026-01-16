@@ -1,0 +1,13 @@
+
+#0("Crea un algoritmo que sume dos numeros enteros y retorne el resultado")
+#1("Crea un algoritmo que multiplique dos numeros enteros y retorne el resultado")
+#2("Crea un algoritmo que divida dos numeros enteros y retorne el resultado")
+#3("Crea un algoritmo que reste dos numeros enteros y retorne el resultado")
+#4("Crea un algoritmo que devuelva el mayor de dos numeros enteros")
+#5("Crea un algoritmo que devuelva el menor de dos numeros enteros")
+#6("Crea un algoritmo que devuelva el promedio de 5 numeros enteros")
+#7("Crea un algoritmo que devuelva la suma de los numeros pares de una lista de 10 numeros enteros")
+#8("Crea un algoritmo que devuelva la suma de los numeros impares de una lista de 10 numeros enteros")
+#9 ("Crea un algoritmo que devuelva la cantidad de numeros pares de una lista de 10 numeros enteros")
+#10("Crea un algoritmo que devuelva la cantidad de numeros impares de una lista de 10 numeros enteros")
+#11("Crea un algoritmo que devuelva si es multipol de 5  y de 3  retorne fiz buzz  si es  multiplo de 5 solo  buzz  si solo multiplo de 3  fizz")
